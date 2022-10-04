@@ -1,2 +1,3 @@
 # Simon-Says-game
-a website app game called Simon Says
+
+Deployed URL: https://hassenbenhadjhassen.github.io/Simon-Says-game/
